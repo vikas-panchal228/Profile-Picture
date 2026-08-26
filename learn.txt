@@ -6,6 +6,10 @@ https://threejs.org/docs/#AnimationAction
 https://expressjs.com/en/5x/starter/generator/
 https://typescript-eslint.io/rules/
 https://react.dev/learn
+https://uisfx.com/
+https://www.morphicons.com/
+https://freebuff.com/
+https://cathrynlavery.github.io/diagram-design/
 
 https://skillsbuild.org/learning-catalog
 https://www.postgresql.org/docs/online-resources/
